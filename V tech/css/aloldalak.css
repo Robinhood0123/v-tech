@@ -4,3 +4,9 @@ font-family: 'Courier New', Courier, monospace;
 text-align: center;
 font-weight: 200;
 }
+.email{
+    text-size-adjust: ;
+    margin: 10%;
+   box-sizing: border-box;
+}
+
