@@ -86,3 +86,10 @@ s .horizontal {
 li {
     display: inline;
 }
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
