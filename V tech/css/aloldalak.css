@@ -61,3 +61,15 @@ header {
     width: 50%;
   }
 
+h3 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    color: black;
+}
+
+.kepkozep {
+    text-align: center;
+}
