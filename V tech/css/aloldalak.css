@@ -18,14 +18,13 @@ h1 {
 .image {
     opacity: 1;
     display: block;
-    width: 100%;
-    height: auto;
+    width: auto;
     transition: .5s ease;
     backface-visibility: hidden;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    
 }
 
 .middle {
@@ -72,5 +71,9 @@ h3 {
 h6 {
     text-align: center;
     color: black;
+}
+
+.farok{
+    text-align: center;
 }
 
