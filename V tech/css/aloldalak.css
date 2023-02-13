@@ -71,9 +71,11 @@ h3 {
 h6 {
     text-align: center;
     color: black;
+    word-break: normal;
 }
 
-.farok{
+.kozepre{
     text-align: center;
 }
+
 
